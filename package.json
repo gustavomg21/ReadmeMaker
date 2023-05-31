@@ -1,13 +1,14 @@
 {
-  "name": "static-site",
+  "name": "readme-maker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Gustavo Murillo",
   "license": "ISC",
+  "homepage": "https://github.com/gustavomg21/ReadmeMaker",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
