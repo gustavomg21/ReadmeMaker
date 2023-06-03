@@ -1,5 +1,6 @@
 
 # ReadmeMaker
+Generates high-quality and professional README.md files for your projects
 
 ## Table of Contents
 - [Description](#project-description)
@@ -25,23 +26,24 @@ Creates ReadMe.md files
   
 
   ### Demo 
-  ![Demo](www.gus/com)
+  ![Demo](https://gustavomg21.github.io/ReadmeMaker/)
   
 
 ## Installation 
-git clone + repository link
+open gitbash and type "git clone " + repository link
 
 ## Usage 
 Run node index.js and answer the prompts
 
 ## Preview
-![Preview](undefined)
+<img width="960" alt="image" src="https://github.com/gustavomg21/ReadmeMaker/assets/45185442/c574673f-78c6-4ba1-afe7-8daa3023533f">
+
 
 ## Contribution
-Gustavo and github
+Made by Gustavo Murillo Gonzalez
 
 ## Testing
-index.js 
+No testing file
 
 ## Questions
-Reach out to the repo owner, [gustavomg21](https://github.com/gustavomg21) at gmicho@gmail.com.
+Reach out to the repo owner, [gustavomg21](https://github.com/gustavomg21) at gmicho015@gmail.com.
